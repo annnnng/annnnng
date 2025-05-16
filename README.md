@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there 👋! Thanks for stopping by!
+----------------------------------------------------
+
+## Who am I?
+
+
+## What am I up to? 
+- 👩‍🏫 I am enjoy my summer before I start my PhD
+
+## How to reach me?
+- 📧 
 
 <!--
 **annnnng/annnnng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
